@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79.585" height="66" viewBox="0 0 79.585 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="79.585" height="66" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="eye" clip-path="url(#clip-path)">
+    <path id="Path_156" data-name="Path 156" d="M80.33,29.86C70.08,21,59.71,16.5,49.5,16.5S28.92,21,18.67,29.86a26,26,0,0,0,0,39.28C28.92,78,39.29,82.5,49.5,82.5S70.08,78,80.33,69.14a26,26,0,0,0,0-39.28Zm-7.86,30.2C67,64.82,58.52,70.5,49.5,70.5S32,64.82,26.53,60.06a14,14,0,0,1,0-21.12C32,34.18,40.48,28.5,49.5,28.5s17.47,5.68,23,10.44a14,14,0,0,1,0,21.12Z" transform="translate(-9.707 -16.5)"/>
+    <circle id="Ellipse_335" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(26.293 19.5)"/>
+  </g>
+</svg>

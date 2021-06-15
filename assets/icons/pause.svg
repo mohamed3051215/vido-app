@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="54" viewBox="0 0 45 54">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="45" height="54" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pause" clip-path="url(#clip-path)">
+    <path id="pause-2" data-name="pause" d="M-2332,802a8,8,0,0,1-8-8V756a8,8,0,0,1,8-8h2a8,8,0,0,1,8,8v38a8,8,0,0,1-8,8Zm-27,0a8,8,0,0,1-8-8V756a8,8,0,0,1,8-8h2a8,8,0,0,1,8,8v38a8,8,0,0,1-8,8Z" transform="translate(2367 -748)"/>
+  </g>
+</svg>

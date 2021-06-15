@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="12" viewBox="0 0 75 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="75" height="12" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="minus" clip-path="url(#clip-path)">
+    <path id="minus-2" data-name="minus" d="M81,55.5H18a6,6,0,0,1,0-12H81a6,6,0,0,1,0,12Z" transform="translate(-12 -43.5)"/>
+  </g>
+</svg>

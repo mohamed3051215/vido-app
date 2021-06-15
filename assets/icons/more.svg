@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.25" height="72" viewBox="0 0 18.25 72">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="18.25" height="72" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="more" clip-path="url(#clip-path)">
+    <path id="more-2" data-name="more" d="M-2798,798a9,9,0,0,1,9-9,9,9,0,0,1,9,9,9,9,0,0,1-9,9A9,9,0,0,1-2798,798Zm0-27a9,9,0,0,1,9-9,9,9,0,0,1,9,9,9,9,0,0,1-9,9A9,9,0,0,1-2798,771Zm-.25-27a9,9,0,0,1,9-9,9,9,0,0,1,9,9,9,9,0,0,1-9,9A9,9,0,0,1-2798.25,744Z" transform="translate(2798.25 -735)"/>
+  </g>
+</svg>

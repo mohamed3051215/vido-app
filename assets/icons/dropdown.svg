@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.914" height="41.002" viewBox="0 0 60.914 41.002">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="60.914" height="41.002" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="dropdown" clip-path="url(#clip-path)">
+    <path id="dropdown-2" data-name="dropdown" d="M43.56,83.36l-22.42-25a8,8,0,0,1,5.95-13.35H72a8,8,0,0,1,5.94,13.36l-22.49,25a8,8,0,0,1-11.89-.01Z" transform="translate(-19.088 -45.01)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.981" height="87.849" viewBox="0 0 74.981 87.849">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="74.981" height="87.849" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="reload" clip-path="url(#clip-path)">
+    <path id="reload-2" data-name="reload" d="M75.49,25.15A6,6,0,1,0,67,33.63a25.55,25.55,0,1,1-26.56-6l-4.56,4.56a6,6,0,1,0,8.48,8.49L58.94,26.13h0A6,6,0,0,0,60.7,22s0-.07,0-.1v-.12A6,6,0,0,0,59,17.64h0L44.37,3.06a6,6,0,1,0-8.48,8.49l3.8,3.79a37.49,37.49,0,1,0,35.8,9.81Z" transform="translate(-11.491 -1.305)"/>
+  </g>
+</svg>

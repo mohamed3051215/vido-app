@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="66" viewBox="0 0 75 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="75" height="66" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="fullscreen" clip-path="url(#clip-path)">
+    <path id="fullscreen-2" data-name="fullscreen" d="M-2316,814a6,6,0,0,1-6-6,6,6,0,0,1,6-6h12V790a6,6,0,0,1,6-6,6,6,0,0,1,6,6v18a6,6,0,0,1-6,6Zm-45,0a6,6,0,0,1-6-6V790a6,6,0,0,1,6-6,6,6,0,0,1,6,6v12h12a6,6,0,0,1,6,6,6,6,0,0,1-6,6Zm57-42V760h-12a6,6,0,0,1-6-6,6,6,0,0,1,6-6h18a6,6,0,0,1,6,6v18a6,6,0,0,1-6,6A6,6,0,0,1-2304,772Zm-63,0V754a6,6,0,0,1,6-6h18a6,6,0,0,1,6,6,6,6,0,0,1-6,6h-12v12a6,6,0,0,1-6,6A6,6,0,0,1-2367,772Z" transform="translate(2367 -748)"/>
+  </g>
+</svg>
