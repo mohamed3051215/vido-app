@@ -40,9 +40,4 @@ A new Flutter project.
 ![Alt Text](flutter_15.png)
  ### see also
 ![Alt Text](flutter_16.png)
- ### see also
-![Alt Text](flutter_17.png)
- ### see also
-![Alt Text](flutter_18.png)
- 
- 
+
