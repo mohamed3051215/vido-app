@@ -6,7 +6,7 @@ It has no functionality except navigating between screens to view the UI.
 
 
 # Here is some screens from it:
-## see also:
+## see :
 ![Alt Text](GIF-210615_092623[1].gif)
 ## see also
 ![Alt Text](ezgif.com-gif-maker.gif)
